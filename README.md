@@ -1,5 +1,5 @@
 # StoryBooks
-Nodejs Express MongoDB
+Nodejs Express MongoDB Express-Handlebars Express-view-engine
 
 The credentials of mongodb connect and google auth is removed from config.env file due to privacy reasons. The code will run after you add your credentials in config.env
 
